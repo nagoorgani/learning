@@ -1,0 +1,32 @@
+---
+
+## Experiment: Attempted Social Media Automation
+
+### Objective
+Tried to automate social media posting to improve consistency and reduce manual effort.
+
+### What I Tried
+- Explored scheduling tools and automation workflows
+- Attempted connecting posting flow with automation logic
+- Tested basic setup for automatic content publishing
+
+### Result
+The automation setup failed due to configuration and integration issues.
+
+### What Went Wrong
+- API access limitations
+- Authentication setup issues
+- Workflow logic not properly structured
+
+### Key Learning
+- Automation requires proper API permissions.
+- Platform restrictions must be understood before building workflows.
+- Testing in small steps is more effective than building everything at once.
+
+### Next Steps
+- Study platform API documentation more deeply
+- Start with a simpler automation (e.g., content draft storage)
+- Break automation into smaller modules
+
+### Tool Used
+Mark Automation Tool
