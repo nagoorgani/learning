@@ -1,0 +1,77 @@
+# 📝 NotebookLM Learning Journal
+
+**Link:** [YouTube Demo](https://www.youtube.com/watch?v=k45u0F4bU8s)
+
+A detailed repository documenting my journey in mastering **NotebookLM** for research and content creation, following the **Zinho Automates tutorial**.
+
+This project focuses on creating a **Research-to-Content pipeline**, grounding AI responses in real documents, and utilizing advanced NotebookLM features for high-quality outputs.
+
+---
+
+## 🎯 Key Learning Objectives
+
+1. **Ground AI responses in real documents** – ensuring outputs are accurate and contextually relevant.
+2. **Build a Research-to-Content pipeline** – transforming raw research into polished deliverables.
+3. **Utilize advanced Studio Panel features** – including custom styles, slide revisions, and multi-source integration.
+
+---
+
+## 📂 Repository Structure
+
+### 1. `docs/RESEARCH_PIPELINE.md`
+**Deep Research Techniques (07:47)**  
+Document methods to use NotebookLM’s Deep Research feature for automatically scraping and organizing sources from websites, GitHub repos, and PDFs.
+
+**Claude Integration (09:01)**  
+Notes on leveraging Claude to write better research prompts before feeding them into NotebookLM.
+
+**Surgical Source Selection (06:37)**  
+Explanation of why selecting fewer, highly relevant sources produces stronger, less generic outputs.
+
+---
+
+### 2. `docs/CONTENT_CREATION.md`
+**Slide Decks (01:32)**  
+Generate **Presenter** or **Detailed** decks and revise individual slides without redoing the entire deck.
+
+**Infographics (03:50)**  
+Use the Studio Panel to select visual styles (e.g., scientific, kawaii) and create **custom styles** via Gemini screenshots (04:53).
+
+**Data Tables (05:24)**  
+Structure information from multiple sources and export directly to **Google Sheets** for analytics or reporting.
+
+---
+
+### 3. `docs/ADVANCED_FEATURES.md`
+**Audio Overview (09:18)**  
+Document four audio formats: **Brief**, **Critique** (for finding gaps in research), **Debate**, and **Deep Dive**.
+
+**Custom Instructions (10:33)**  
+Leverage the 10,000-character limit to define the AI's **persona**, output structure, and constraints.
+
+**Mixed Source Types (11:46)**  
+Integrate YouTube videos, audio files, Google Docs, and PDFs in the same NotebookLM notebook.
+
+**Gemini Integration (12:34)**  
+Use NotebookLM notebooks as grounded sources inside **Gemini** for final content creation (e.g., LinkedIn posts).
+
+---
+
+### 4. `prompts/LIBRARY.md`
+A curated collection of **specific prompts** used throughout the repository to generate:
+- Infographics  
+- Tables  
+- Slide decks (12:26)
+
+---
+
+## 🔑 Highlights & Impact
+
+- Built a **fully grounded research workflow** using NotebookLM.
+- Transformed raw research into **professional, high-quality content**.
+- Developed **custom AI workflows** for slide decks, infographics, and tables.
+- Integrated multiple content types (PDFs, audio, video, docs) for richer outputs.
+
+---
+
+This repository is ideal for **AI researchers, digital marketers, and content creators** looking to learn how to leverage NotebookLM for structured, document-grounded content production.
